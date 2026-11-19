@@ -1,0 +1,18 @@
+section{
+    border: 2px solid black;
+    height: 120px;
+
+}
+
+div{
+    height: 100px;
+    width: 120px;
+    border: 2px solid red ;
+    background color: yellow; 
+
+}
+
+.box {
+    background-color: orange
+}
+    
